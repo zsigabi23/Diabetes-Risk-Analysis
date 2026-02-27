@@ -1,8 +1,8 @@
-##🩺 **Diabetes Risk Analytics**
+**🩺 Diabetes Risk Analytics**
 
 SQL Server + Power BI Healthcare Dashboard Project
 
-##📌 **Project Overview**
+**📌 Project Overview**
 
 This project delivers an end-to-end healthcare analytics solution analyzing diabetes risk factors using SQL Server and Power BI.
 
@@ -12,7 +12,7 @@ The final output is a single-page Power BI dashboard summarizing key health indi
 
 ---
 
-🎯 Business Objective
+**🎯 Business Objective**
 
 To identify high-risk patient groups and understand the primary health and lifestyle drivers contributing to diabetes risk.
 
@@ -28,9 +28,9 @@ Does family history significantly impact outcomes?
 
 What lifestyle behaviors correlate with elevated risk?
 
---
+---
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 SQL Server (SSMS)
 
@@ -44,10 +44,10 @@ Data Cleaning & Validation
 
 Exploratory Data Analysis
 
---
+---
 
-🏗 Project Workflow
-1️⃣ Data Import & Validation
+**🏗 Project Workflow**
+**1️⃣ Data Import & Validation**
 
 Imported raw CSV dataset into SQL Server
 
@@ -57,7 +57,7 @@ Checked missing values and data types
 
 Performed range validation for BMI, glucose, and age
 
-2️⃣ Data Cleaning & Preparation
+**2️⃣ Data Cleaning & Preparation**
 
 Created diabetes_clean table
 
@@ -67,7 +67,7 @@ Engineered age group segments
 
 Prepared risk categorization fields
 
-3️⃣ Analytical SQL Queries
+**3️⃣ Analytical SQL Queries**
 
 Built structured analysis tables including:
 
@@ -81,7 +81,7 @@ Lifestyle factor breakdown
 
 Family history impact
 
-4️⃣ Power BI Dashboard Development
+**4️⃣ Power BI Dashboard Development**
 
 Designed a single-page executive dashboard highlighting:
 
@@ -107,23 +107,23 @@ Diabetes Risk Analysis
 
 )
 
---
+---
 
-📊 Key Insights
+**📊 Key Insights**
 
-High Risk patients show significantly higher BMI and glucose averages.
+High-risk patients show significantly higher BMI and glucose averages.
 
 Elevated glucose levels strongly correlate with risk category.
 
-Older age groups exhibit higher risk distribution.
+Older age groups exhibit a higher risk distribution.
 
 Family history increases the probability of elevated risk.
 
 Lifestyle factors (stress, physical inactivity) show measurable impact.
 
---
+---
 
-📈 Dashboard Design Philosophy
+**📈 Dashboard Design Philosophy**
 
 The dashboard follows executive reporting principles:
 
@@ -137,9 +137,9 @@ Clean layout with minimal clutter
 
 Insight-driven chart titles
 
---
+---
 
-🧠 Skills Demonstrated
+**🧠 Skills Demonstrated**
 
 SQL data cleaning & transformation
 
@@ -155,11 +155,11 @@ Insight storytelling
 
 End-to-end analytics workflow
 
---
+---
 
-🚀 How to Reproduce
+**🚀 How to Reproduce**
 
-Create database in SQL Server.
+Create a database in SQL Server.
 
 Run SQL scripts in order:
 
@@ -175,9 +175,9 @@ Connect Power BI to SQL Server.
 
 Build visuals using prepared tables and measures.
 
---
+---
 
-📂 Repository Contents
+**📂 Repository Contents**
 
 Raw dataset
 
@@ -189,9 +189,9 @@ Exported dashboard PDF
 
 Documentation
 
---
+---
 
-👩🏽‍💻 Author
+**👩🏽‍💻 Author**
 
 Zolile Sigabi
 Data Analytics Portfolio Project
