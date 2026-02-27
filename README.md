@@ -1,8 +1,8 @@
-##🩺 Diabetes Risk Analytics
+##🩺 **Diabetes Risk Analytics**
 
 SQL Server + Power BI Healthcare Dashboard Project
 
-📌 Project Overview
+##📌 **Project Overview**
 
 This project delivers an end-to-end healthcare analytics solution analyzing diabetes risk factors using SQL Server and Power BI.
 
