@@ -15,7 +15,3 @@ This project analyzes patient health data to identify key factors associated wit
 ## Tools & Technologies
 - **SQL (SSMS):** Data cleaning, transformation, and querying.  
 - **Power BI:** Interactive dashboards and visual insights.
-
----
-
-## Project Structure
