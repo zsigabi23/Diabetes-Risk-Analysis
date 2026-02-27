@@ -1,4 +1,4 @@
-🩺 Diabetes Risk Analytics
+##🩺 Diabetes Risk Analytics
 
 SQL Server + Power BI Healthcare Dashboard Project
 
@@ -10,7 +10,7 @@ The objective was to transform raw patient health data into actionable insights 
 
 The final output is a single-page Power BI dashboard summarizing key health indicators, risk distribution, and lifestyle correlations.
 
---
+---
 
 🎯 Business Objective
 
